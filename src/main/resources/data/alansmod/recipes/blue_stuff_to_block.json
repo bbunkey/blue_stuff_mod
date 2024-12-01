@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "bbb",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "alansmod:bluestuff"
+    }
+  },
+  "result": {
+    "item": "alansmod:bluestuffblock"
+  }
+}
