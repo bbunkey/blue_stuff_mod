@@ -3,12 +3,12 @@
   "category": "building",
   "pattern": [
     "pip",
-    "hbh",
+    "hgh",
     "pip"
   ],
   "key": {
-    "b": {
-      "item": "alansmod:bluestuff"
+    "g": {
+      "item": "minecraft:golden_apple"
     },
     "i": {
       "item": "minecraft:iron_ingot"
