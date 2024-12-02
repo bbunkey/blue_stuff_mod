@@ -2,10 +2,17 @@
   "item.alansmod.bluestuff": "Blue Stuff",
   "item.alansmod.bluestuffplate": "Tray of Blue Stuff",
   "item.alansmod.medicine": "Medicine",
-  "item.alansmod.bmk": "BMK",
+  "item.alansmod.precursor": "Precursor",
+  "item.alansmod.cbs": "Compressed Blue Stuff",
+  "item.alansmod.funnyblueingot": "Blue Stuff Ingot",
+  "item.alansmod,bluesword": "Blue Stuff Sword",
+  "item.alansmod,blueaxe": "Blue Stuff Axe",
+  "item.alansmod,bluepick": "Blue Stuff Pickaxe",
+  "item.alansmod,blueshovel": "Blue Stuff Shovel",
+  "item.alansmod,bluehoe": "Blue Stuff Hoe",
 
   "block.alansmod.bluestuffblock": "Block of Blue Stuff",
-  "block.alansmod.compressedbluestuffblock": "Compressed Block of BLue Stuff",
+  "block.alansmod.compressedbluestuffblock": "Compressed Block of Blue Stuff",
 
   "creativetab.alans_mod_tab": "Alan's Mod Stuff"
 }

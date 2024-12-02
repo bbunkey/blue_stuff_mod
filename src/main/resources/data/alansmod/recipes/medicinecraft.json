@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "pip",
+    "hbh",
+    "pip"
+  ],
+  "key": {
+    "b": {
+      "item": "alansmod:bluestuff"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    },
+    "h": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "alansmod:medicine",
+    "count": 4
+  }
+}

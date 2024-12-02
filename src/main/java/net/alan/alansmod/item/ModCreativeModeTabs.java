@@ -21,9 +21,16 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.BLUESTUFF.get());
                         output.accept(ModItems.BLUESTUFFPLATE.get());
                         output.accept(ModItems.MEDICINE.get());
-                        output.accept(ModItems.BMK.get());
+                        output.accept(ModItems.PRECURSOR.get());
                         output.accept(ModBlocks.BLUESTUFFBLOCK.get());
                         output.accept(ModBlocks.COMPRESSEDBLUESTUFFBLOCK.get());
+                        output.accept(ModItems.CBS.get());
+                        output.accept(ModItems.FUNNYBLUEINGOT.get());
+                        output.accept(ModItems.BLUEHOE.get());
+                        output.accept(ModItems.BLUESWORD.get());
+                        output.accept(ModItems.BLUEAXE.get());
+                        output.accept(ModItems.BLUESHOVEL.get());
+                        output.accept(ModItems.BLUEPICK.get());
                     })
                     .build());
 

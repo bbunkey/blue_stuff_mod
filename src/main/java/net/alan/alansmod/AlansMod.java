@@ -60,6 +60,10 @@ public class AlansMod
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.BLUESTUFF);
             event.accept(ModItems.BLUESTUFFPLATE);
+            event.accept(ModItems.CBS);
+            event.accept(ModItems.PRECURSOR);
+            event.accept(ModItems.MEDICINE);
+            event.accept(ModItems.FUNNYBLUEINGOT);
         }
 
     }
