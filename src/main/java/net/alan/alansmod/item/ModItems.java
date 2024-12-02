@@ -24,10 +24,10 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> CBS = ITEMS.register("cbs",
-            () -> new Item(new Item.Properties()));
+            () -> new Item(new Item.Properties().food(ModFoods.CBS)));
 
     public static final RegistryObject<Item> FUNNYBLUEINGOT = ITEMS.register("funnyblueingot",
-            () -> new Item(new Item.Properties().food(ModFoods.CBS)));
+            () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> BLUESWORD = ITEMS.register("bluesword",
             () -> new SwordItem(ModToolTiers.BLUE,4,4,new Item.Properties()));
